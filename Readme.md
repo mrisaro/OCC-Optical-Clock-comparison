@@ -110,7 +110,7 @@ for i,key in enumerate(list(paths.keys())):
     print(f'Computing ratio for {key[0]} - {key[1]}')
     print(f'Comparator {i} of {len(paths.keys())}')
     try:
-        ratio_data = ratio_dat(data_dict, paths, key)
+        ratio_data = ratio_dat(data_dict, paths, key, output_folder='ratio_data/')
         ratio_campaign[key] = ratio_data
     except Exception as e:
         print(f"Failed for {key[0]} - {key[1]}: {e}")
