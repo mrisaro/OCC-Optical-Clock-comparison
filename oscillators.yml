@@ -1,0 +1,31 @@
+oscillators:
+  NPL_YbE3: 
+    nu: "642121496772645.12"
+    grs: "-1.18692e-15"
+  NPL_Sr1: 
+    nu: "429228004229872.99"
+    grs: "-1.2150e-15"
+  INRIM_ITYb1: 
+    nu: "518295836590863.63"
+    grs: "0.0"
+  INRIM_PTBSr4: 
+    nu: "429228004229872.99"
+    grs: "0.0"
+  OBSPARIS_SrB: 
+    nu: "429228004229872.99"
+    grs: "-6.1146e-15"
+  OBSPARIS_Sr2: 
+    nu: "429228004229872.99"
+    grs: "-6.0860e-15"
+  PTB_In_CombKnoten: 
+    nu: "1267402452901041.3"
+    grs: "0.0"
+  PTB_Al_CombAl: 
+    nu: "1121015393207859.16"
+    grs: "0.0"
+  PTB_Yb_CombKnoten: 
+    nu: "642121496772645.12"
+    grs: "0.0"
+  PTB_Sr3_CombKnoten: 
+    nu: "429228004229872.99"
+    grs: "0.0"

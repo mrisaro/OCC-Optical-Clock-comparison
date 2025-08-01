@@ -1,0 +1,16 @@
+countries:
+  United Kingdom:
+    institutes: [NPL]
+    color: "#1f77b4"   # Blue
+
+  Italy:
+    institutes: [INRIM]
+    color: "#2ca02c"   # Green
+
+  France:
+    institutes: [LPL, OBSPARIS, TH2, MODANE, UNISTRA]
+    color: "#ff7f0e"   # Orange
+
+  Germany:
+    institutes: [PTB]
+    color: "#808080"   # Red
